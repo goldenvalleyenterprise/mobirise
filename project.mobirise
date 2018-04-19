@@ -35,16 +35,17 @@
     "noImageResize": "",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
-    "siteUrl": "",
+    "siteUrl": "https://goldenvalleyenterprise.github.io/mobirise/",
     "sitemapSwitcherAuto": "on",
-    "google-analytics": ""
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-117883813-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-117883813-1');\r\n</script>\r\n\r\n",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Meow WiFi",
+        "meta_descr": "Meow WiFi providing micro internet coverage in residential area specifically high rise building. To provide unlimited internet quota with speed up to 2Mbps at low price.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
